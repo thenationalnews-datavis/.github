@@ -17,3 +17,23 @@ Publishing across all digital platforms – reaching millions of readers, listen
 The National was originally launched as part of Abu Dhabi Media, before being acquired by International Media Investments and relaunched in 2017.
 
 The National is the destination to understand the Middle East at a time when the region has never been more important
+
+## The National’s editorial leadership
+
+* Editor-in-Chief: **Mina Al-Oraibi**
+* Deputy Editor: **Dan Gledhill**
+* Managing Editor: **Laura Koot**
+* Head of Digital: **Alex Gubbay**
+* Assistant Editors-in-Chief:
+  * **Nicholas March**
+  * **Nic Ridley**
+  * **Joe Jenkins**
+  * **Rory Reynolds**
+  * **Enas Refaei**
+
+## Data Visualisation Department
+* Head of the Data Visualisation Department: **Fadah Jassem**
+* Data Visualisation Journalist: **Isaac Arroyo**
+* Graphic Artist: **Roy Cooper**
+* Motion Graphics Designer: **Nour Hayani**
+* Motion Graphics Designer: **Aneesh Grigary**
